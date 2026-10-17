@@ -2,7 +2,7 @@
 const Header = () => {
   return (
     <header>
-        <h1>My Food Menu</h1>
+        <h1>Food Menu App</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
